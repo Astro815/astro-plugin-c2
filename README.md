@@ -1,4 +1,5 @@
 # astro-plugin-c2
+versão: 1.0
 Meu plugin "Astro" para o construct 2
 
 ## Ações
