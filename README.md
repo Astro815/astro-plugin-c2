@@ -6,7 +6,7 @@ Meu plugin "Astro" para o construct 2
 ## Ações
 Tem atualmente 2 ações no plugin
 ### 1 - Quando o jogo for minimizado
-Sempre quando o jogo minimiza, o jogo para de roda e recebe um pause, com esse plugin você pode pausar e despausar o jogo quando for minimizado.
+Sempre quando o jogo minimiza, o jogo para de roda e recebe um pause, com esse plugin você pode pausar e não-pausar o jogo quando for minimizado.
 ### 2 - Notificar
 Essa ação pode criar notificações no seu jogo para conquista, avisos, etc... com as sequintes opções:
 - Titulos
